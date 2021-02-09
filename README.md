@@ -2,7 +2,9 @@
 A simple launcher with various quality-of-life features for Cyberpunk 2077 speedrunners.
 
 ## Installation
+For a pre-compiled script, please download the latest release.
 Drop the three files into your root CP77 directory. Should replace the RED Launcher.
+This launcher is built using AutoHotkey, you shouldn't need the main AHK program to use this script.
 
 ## Configuration
 Configuration instructions are in the launcher itself.
